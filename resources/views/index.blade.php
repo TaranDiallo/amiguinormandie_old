@@ -7,6 +7,8 @@
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.88.1">
     <title>Amicale des Guinéens de Normandie</title>
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+
 
     <link rel="canonical" href="/cover.css">
 
@@ -49,15 +51,20 @@
   </header>
 
   <main class="px-3">
-    <h1>Collecte de Zakat</h1>
-    <p class="lead">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Itaque molestias ipsum, in ab, fugit quia nulla tempora iusto corrupti ratione cumque a impedit quod vero pariatur architecto temporibus facere nam.</p>
+    <h1>Collecte de Zakat Al Fitr</h1>
     <p class="lead">
-      <a href="#" class="btn btn-lg btn-success">Je m'acquitte</a>
+        La Zakat Al fitr, ou l'aumôme de la rupture du jeûne est une aumône obligatoire dont chaque musulman doit s'acquitter à la fin du mois de Ramadan. Elle devient obligatoire à partir du coucher du soleil du dernier jour du mois de Ramadan. Elle doit être sorti entre la prière de Sobh et celle de L'Aid. Cependant il est permis de la sortir 2 à 3 jours maximum avant l'Aid.
+    <p class="lead">
+      <a href="https://buy.stripe.com/eVa3fYbXM5qn6l2dQZ" class="btn btn-lg btn-success">Je m'acquitte</a>
+    </p>
+
+    <p class="lead">
+        Vous pouvez également le faire via Paylib en contact  ce numéro <strong>0669199382</strong>
     </p>
   </main>
 
   <footer class="mt-auto text-white-50">
-    <p>by <a href="https://www.linkedin.com/in/tarandiallo/" class="text-white">Ousmane</a> and <a href="https://www.linkedin.com/in/adiallo3012/" class="text-white">Hakeem</a></p>
+    <p>by <a href="https://www.linkedin.com/in/tarandiallo/" class="text-white">Ousmane</a> and <a href="https://www.linkedin.com/in/adiallo3012/" class="text-white">Aboubacar</a></p>
   </footer>
 </div>
 
